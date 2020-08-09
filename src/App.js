@@ -1,15 +1,12 @@
 import React from 'react';
 import './App.css';
+import Index from './quis/index'
 
 
 function App() {
   return (
-    <>
-      <h1>Selamat datang kembali</h1>
-    </>
-  );
-
-
+    <Index />
+  )
 }
 
 export default App;

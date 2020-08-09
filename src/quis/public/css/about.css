@@ -1,0 +1,13 @@
+body {
+    background-color: whitesmoke;
+}
+h1 {
+    text-align: center;
+}
+li {
+    text-align: left;
+}
+
+article {
+    margin: 50px 50px;
+}
